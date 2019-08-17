@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\bin\Debug\CafeMenuSolution.exe.config
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\bin\Debug\CafeMenuSolution.exe
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\bin\Debug\CafeMenuSolution.pdb
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\bin\Debug\CafeMenuRepo.dll
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\bin\Debug\CafeMenuRepo.pdb
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\obj\Debug\CafeMenuConsole.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\obj\Debug\CafeMenuConsole.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\obj\Debug\CafeMenuConsole.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\obj\Debug\CafeMenuSolution.exe
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuSolution\obj\Debug\CafeMenuSolution.pdb

@@ -1,0 +1,3 @@
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\CafeMenuRepo\obj\Debug\CafeMenuRepo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\NewCafe\CafeMenuRepo\obj\Debug\CafeMenuRepo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\NewCafe\CafeMenuRepo\obj\Debug\CafeMenuRepo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuRepo\bin\Debug\CafeMenuRepo.dll
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuRepo\bin\Debug\CafeMenuRepo.pdb
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuRepo\obj\Debug\CafeMenuRepo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuRepo\obj\Debug\CafeMenuRepo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuRepo\obj\Debug\CafeMenuRepo.dll
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CorrectCafeMenuSolution\CafeMenuSolution\CafeMenuRepo\obj\Debug\CafeMenuRepo.pdb

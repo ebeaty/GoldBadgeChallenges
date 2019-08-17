@@ -1,0 +1,1 @@
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\TestingProject\obj\Debug\CafeMenuUI.csproj.CoreCompileInputs.cache

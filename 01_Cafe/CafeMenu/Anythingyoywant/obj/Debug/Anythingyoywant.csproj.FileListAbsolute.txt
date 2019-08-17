@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\Anythingyoywant\bin\Debug\Anythingyoywant.exe.config
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\Anythingyoywant\bin\Debug\Anythingyoywant.exe
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\Anythingyoywant\bin\Debug\Anythingyoywant.pdb
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\Anythingyoywant\obj\Debug\Anythingyoywant.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\Anythingyoywant\obj\Debug\Anythingyoywant.exe
+C:\ElevenFiftyProjects\GoldBadge\01_Cafe\CafeMenu\Anythingyoywant\obj\Debug\Anythingyoywant.pdb
